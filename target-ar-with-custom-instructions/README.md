@@ -1,0 +1,1 @@
+Very basic example showing how a creator can build an effect with instructions telling the user what to do, with an accompanying picture of the texture.
